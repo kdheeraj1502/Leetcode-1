@@ -7,6 +7,7 @@ import java.util.List;
 /**
  * Normally, both val and next should be private attributes and generate getter and setter for them,
  * but for the convenience of leetcode solutions, I set them as public.
+ *
  */
 public class ListNode {
     public int val;
